@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.39"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="/home/zil/media/images/tribal"
+   sodipodi:docname="tribal.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0000000"
+     inkscape:cx="440.47144"
+     inkscape:cy="356.03967"
+     inkscape:window-width="1598"
+     inkscape:window-height="1148"
+     inkscape:window-x="0"
+     inkscape:window-y="29" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="Bug"
+     style="stroke:#000000;stroke-opacity:1.0000000;fill:#000000;fill-opacity:1.0000000;">
+    <path
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;"
+       d="M 383.48812,203.33733 C 339.78832,202.44550 181.04206,352.27341 303.22316,505.66866 C 267.54985,632.30892 227.41737,478.91367 272.90084,499.42583 C 230.98470,440.56486 222.06637,626.06609 296.08850,568.09696 C 273.79268,671.54957 315.70882,730.41053 394.19011,765.19201 C 350.49030,725.95137 298.76400,679.57606 328.19448,593.96011 C 385.27178,652.82108 393.29828,649.25375 393.29828,649.25375 L 412.02677,618.93143 C 412.02677,618.93143 492.29172,688.49439 377.24528,848.13246 C 407.56760,825.83665 504.77738,719.70854 437.88992,577.90712 C 504.77738,555.61130 503.88555,523.50532 503.88555,523.50532 C 503.88555,523.50532 475.34690,548.47664 438.78175,545.80114 C 453.05108,506.56049 449.48374,483.37284 449.48374,483.37284 C 449.48374,483.37284 427.18792,561.85413 383.48812,601.09478 C 294.30483,548.47663 329.97814,318.38377 403.10844,404.89155 C 404.89211,351.38158 329.08632,313.92460 298.76400,450.37502 C 289.84567,410.24255 257.73968,284.49412 383.48812,203.33733 z "
+       id="path934"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;"
+       d="M 300.54766,411.13438 C 300.54766,411.13438 332.65364,301.43894 374.56979,263.98196 C 432.53892,305.00628 446.80825,418.26904 446.80825,418.26904 L 463.75307,414.70171 C 463.75307,414.70171 442.34908,292.52061 395.97377,239.01064 C 482.48156,313.92460 486.04889,428.07920 486.04889,428.07920 L 450.37558,453.94236 C 424.51243,572.55613 316.60065,494.96667 377.24529,436.99753 C 345.13930,518.15432 494.07538,499.42583 377.24528,307.68177 C 334.43731,347.81425 300.54766,411.13438 300.54766,411.13438 z "
+       id="path1556"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>
